@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 379834921f9e7984782ae1ecffbee09d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AmmoIcon
+    100002: AmmoIcon.001
+    100004: BombIcon
+    100006: ClockIcon
+    100008: EnergyUp
+    100010: EnergyUp2
+    100012: HealthUp
+    100014: HealthUp.001
+    100016: MaskIcon
+    100018: //RootNode
+    100020: RocketIcon
+    100022: ShieldIcon
+    100024: SkullIcon
+    100026: SpeedUp
+    100028: SpeedUp.001
+    100030: StunnedIcon
+    100032: WingIcon
+    400000: AmmoIcon
+    400002: AmmoIcon.001
+    400004: BombIcon
+    400006: ClockIcon
+    400008: EnergyUp
+    400010: EnergyUp2
+    400012: HealthUp
+    400014: HealthUp.001
+    400016: MaskIcon
+    400018: //RootNode
+    400020: RocketIcon
+    400022: ShieldIcon
+    400024: SkullIcon
+    400026: SpeedUp
+    400028: SpeedUp.001
+    400030: StunnedIcon
+    400032: WingIcon
+    2100000: Material.002
+    2100002: Material4
+    2100004: Material.001
+    2100006: Material05
+    2100008: Material6
+    2100010: Material
+    2100012: Material03
+    2100014: Material02
+    2300000: AmmoIcon
+    2300002: AmmoIcon.001
+    2300004: BombIcon
+    2300006: ClockIcon
+    2300008: EnergyUp
+    2300010: EnergyUp2
+    2300012: HealthUp
+    2300014: HealthUp.001
+    2300016: MaskIcon
+    2300018: RocketIcon
+    2300020: ShieldIcon
+    2300022: SkullIcon
+    2300024: SpeedUp
+    2300026: SpeedUp.001
+    2300028: StunnedIcon
+    2300030: WingIcon
+    3300000: AmmoIcon
+    3300002: AmmoIcon.001
+    3300004: BombIcon
+    3300006: ClockIcon
+    3300008: EnergyUp
+    3300010: EnergyUp2
+    3300012: HealthUp
+    3300014: HealthUp.001
+    3300016: MaskIcon
+    3300018: RocketIcon
+    3300020: ShieldIcon
+    3300022: SkullIcon
+    3300024: SpeedUp
+    3300026: SpeedUp.001
+    3300028: StunnedIcon
+    3300030: WingIcon
+    4300000: ShieldIcon
+    4300002: AmmoIcon.001
+    4300004: AmmoIcon
+    4300006: StunnedIcon
+    4300008: BombIcon
+    4300010: ClockIcon
+    4300012: WingIcon
+    4300014: SpeedUp.001
+    4300016: EnergyUp2
+    4300018: HealthUp.001
+    4300020: RocketIcon
+    4300022: MaskIcon
+    4300024: SkullIcon
+    4300026: EnergyUp
+    4300028: HealthUp
+    4300030: SpeedUp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
